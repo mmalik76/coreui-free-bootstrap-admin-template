@@ -1,4 +1,5 @@
 /.idea
+/.vs
 node_modules
 
 # node_modules & dist folders on source needed for file system (fs) tests
